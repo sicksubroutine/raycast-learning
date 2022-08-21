@@ -1,4 +1,4 @@
-# raycast-learning
+# RAYCAST LEARNING CORNER! COME AND JOIN THE PARTY! (Or not)
 This is a project where I am learning more about Raycasting for video games.
 
 Based upon the tutorial on Youtube by *Code Monkey King* found [here](https://www.youtube.com/watch?v=ssm2jMd40p4&t).
