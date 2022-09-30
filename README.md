@@ -1,9 +1,9 @@
-# RAYCAST LEARNING CORNER! COME AND JOIN THE PARTY! (Or not)
+# [RAYCAST LEARNING CORNER! COME AND JOIN THE PARTY!](https://github.com/sicksubroutine/raycast-learning)
 This is a project where I am learning more about Raycasting for video games.
 
 Based upon the tutorial on Youtube by *Code Monkey King* found [here](https://www.youtube.com/watch?v=ssm2jMd40p4&t).
 
-He has left the tutorial incomplete so this project will be dedicated to progressing my knowledge on raycasting in HTML5/Javascript and maybe in other enviroments like SDL2/C++.
+He has left the tutorial incomplete so this project will be dedicated to progressing my knowledge on raycasting in HTML5/Javascript and maybe in other languages like C++.
 
 My research here is inspired by: 
 * John Carmack's early start with raycasting in the Wolfenstien 3D engine.
